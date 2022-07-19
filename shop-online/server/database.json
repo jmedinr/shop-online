@@ -10,7 +10,8 @@
         "count": 120,
         "rate": 3.9
       },
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "men's clothing",
@@ -19,10 +20,11 @@
       "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
       "price": 22.3,
       "rating": {
-        "count": 259,
+        "count": 0,
         "rate": 4.1
       },
-      "title": "Mens Casual Premium Slim Fit T-Shirts "
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "inventoryStatus": "OUTOFSTOCK"
     },
     {
       "category": "men's clothing",
@@ -34,7 +36,8 @@
         "count": 500,
         "rate": 4.7
       },
-      "title": "Mens Cotton Jacket"
+      "title": "Mens Cotton Jacket",
+      "inventoryStatus": "LOWSTOCK"
     },
     {
       "category": "men's clothing",
@@ -46,7 +49,8 @@
         "count": 430,
         "rate": 2.1
       },
-      "title": "Mens Casual Slim Fit"
+      "title": "Mens Casual Slim Fit",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "jewelery",
@@ -58,7 +62,8 @@
         "count": 400,
         "rate": 4.6
       },
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet"
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "jewelery",
@@ -70,7 +75,8 @@
         "count": 70,
         "rate": 3.9
       },
-      "title": "Solid Gold Petite Micropave "
+      "title": "Solid Gold Petite Micropave ",
+      "inventoryStatus": "LOWSTOCK"
     },
     {
       "category": "jewelery",
@@ -82,7 +88,8 @@
         "count": 400,
         "rate": 3
       },
-      "title": "White Gold Plated Princess"
+      "title": "White Gold Plated Princess",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "jewelery",
@@ -94,7 +101,8 @@
         "count": 100,
         "rate": 1.9
       },
-      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double"
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "inventoryStatus": "LOWSTOCK"
     },
     {
       "category": "electronics",
@@ -106,7 +114,8 @@
         "count": 203,
         "rate": 3.3
       },
-      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 "
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "inventoryStatus": "LOWSTOCK"
     },
     {
       "category": "electronics",
@@ -115,10 +124,11 @@
       "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
       "price": 109,
       "rating": {
-        "count": 470,
+        "count": 0,
         "rate": 2.9
       },
-      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s"
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "inventoryStatus": "OUTOFSTOCK"
     },
     {
       "category": "electronics",
@@ -130,7 +140,8 @@
         "count": 319,
         "rate": 4.8
       },
-      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5"
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "electronics",
@@ -142,7 +153,8 @@
         "count": 400,
         "rate": 4.8
       },
-      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive"
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "electronics",
@@ -154,7 +166,8 @@
         "count": 250,
         "rate": 2.9
       },
-      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin"
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "electronics",
@@ -166,7 +179,8 @@
         "count": 140,
         "rate": 2.2
       },
-      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED "
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
@@ -178,7 +192,8 @@
         "count": 235,
         "rate": 2.6
       },
-      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
@@ -190,7 +205,8 @@
         "count": 340,
         "rate": 2.9
       },
-      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket"
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
@@ -202,7 +218,8 @@
         "count": 679,
         "rate": 3.8
       },
-      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats"
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
@@ -214,19 +231,21 @@
         "count": 130,
         "rate": 4.7
       },
-      "title": "MBJ Women's Solid Short Sleeve Boat Neck V "
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
       "id": 19,
-      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
       "price": 7.95,
       "rating": {
         "count": 146,
         "rate": 4.5
       },
-      "title": "Opna Women's Short Sleeve Moisture"
+      "title": "Opna Women's Short Sleeve Moisture",
+      "inventoryStatus": "INSTOCK"
     },
     {
       "category": "women's clothing",
@@ -238,7 +257,8 @@
         "count": 145,
         "rate": 3.6
       },
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short"
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "inventoryStatus": "INSTOCK"
     }
   ]
 }
