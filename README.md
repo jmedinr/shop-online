@@ -1,5 +1,5 @@
 # shop-online
-###Shop Online Project
+### Shop Online Project
 
 ## Autores ✒️
 * **Juan Diego Medina Rojas** - *Consultor De Desarrollo*
