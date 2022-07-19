@@ -7,6 +7,9 @@ import { MegaMenuItem, MenuItem } from 'primeng/api';
   encapsulation: ViewEncapsulation.None,
   styleUrls: ['./menu.component.css']
 })
+/**
+ * MenuComponent: View of Menu bar header
+ */
 export class MenuComponent implements OnInit {
 
   tieredItems: MenuItem[] = [];
@@ -28,7 +31,8 @@ export class MenuComponent implements OnInit {
                   icon: 'pi pi-fw pi-search'
               }
 
-          ]
+          ],
+          'routerLink': ['/view']
       },
       {
           label: 'Customers',
