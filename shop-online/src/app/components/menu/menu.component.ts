@@ -32,7 +32,7 @@ export class MenuComponent implements OnInit {
               }
 
           ],
-          'routerLink': ['/view']
+          routerLink: ['/view']
       },
       {
           label: 'Customers',
